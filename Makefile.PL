@@ -14,5 +14,6 @@ requires 'POE::Component::IKC::Server';
 
 auto_install;
 
+repository 'http://github.com/hirose31/p5-bot-ikcbot-pluggable';
 WriteAll;
 
